@@ -9,10 +9,15 @@ This project is a great starting point for anyone looking to dive into the world
 
 **HTML Features in this Project:**
 1.Basic headings (H1, H2, H3) to organize the content 📚
+
 2.Paragraphs to provide text information 📑
+
 3.Links to connect different pages or external resources 🔗
+
 4.Images to make the webpage visually appealing 🖼️
+
 5.Lists to organize items clearly 📋
+
 
 
 **What is CSS? 🎨💅**
